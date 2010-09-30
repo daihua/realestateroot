@@ -1,0 +1,81 @@
+# Logfile created on Wed May 12 00:03:02 -0700 2010 by logger.rb/22283
+[05/12/10 00:03:02 -0700 Richard-3.local (2564)] INFO : Web container: mongrel
+[05/12/10 00:03:02 -0700 Richard-3.local (2564)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:03:02 -0700 Richard-3.local (2564)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2564
+[05/12/10 00:03:02 -0700 Richard-3.local (2564)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:03:07 -0700 Richard-3.local (2564)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:03:08 -0700 Richard-3.local (2564)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:03:08 -0700 Richard-3.local (2564)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:03:08 -0700 Richard-3.local (2564)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 00:03:46 -0700 Richard-3.local (2578)] INFO : Web container: mongrel
+[05/12/10 00:03:46 -0700 Richard-3.local (2578)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:03:46 -0700 Richard-3.local (2578)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2578
+[05/12/10 00:03:46 -0700 Richard-3.local (2578)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:03:51 -0700 Richard-3.local (2578)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:03:51 -0700 Richard-3.local (2578)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:03:51 -0700 Richard-3.local (2578)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:03:51 -0700 Richard-3.local (2578)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 00:04:30 -0700 Richard-3.local (2588)] INFO : Web container: mongrel
+[05/12/10 00:04:30 -0700 Richard-3.local (2588)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:04:30 -0700 Richard-3.local (2588)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2588
+[05/12/10 00:04:30 -0700 Richard-3.local (2588)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:04:35 -0700 Richard-3.local (2588)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:04:35 -0700 Richard-3.local (2588)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:04:35 -0700 Richard-3.local (2588)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:04:35 -0700 Richard-3.local (2588)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 00:05:48 -0700 Richard-3.local (2607)] INFO : Web container: mongrel
+[05/12/10 00:05:48 -0700 Richard-3.local (2607)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:05:48 -0700 Richard-3.local (2607)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2607
+[05/12/10 00:05:48 -0700 Richard-3.local (2607)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:05:53 -0700 Richard-3.local (2607)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:05:53 -0700 Richard-3.local (2607)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:05:53 -0700 Richard-3.local (2607)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:05:54 -0700 Richard-3.local (2607)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 00:14:16 -0700 Richard-3.local (2719)] INFO : Web container: mongrel
+[05/12/10 00:14:16 -0700 Richard-3.local (2719)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:14:16 -0700 Richard-3.local (2719)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2719
+[05/12/10 00:14:16 -0700 Richard-3.local (2719)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:14:21 -0700 Richard-3.local (2719)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:14:21 -0700 Richard-3.local (2719)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:14:21 -0700 Richard-3.local (2719)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:14:22 -0700 Richard-3.local (2719)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 00:15:15 -0700 Richard-3.local (2745)] INFO : Web container: mongrel
+[05/12/10 00:15:15 -0700 Richard-3.local (2745)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 00:15:15 -0700 Richard-3.local (2745)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2745
+[05/12/10 00:15:15 -0700 Richard-3.local (2745)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 00:15:20 -0700 Richard-3.local (2745)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 00:15:21 -0700 Richard-3.local (2745)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 00:15:21 -0700 Richard-3.local (2745)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 00:15:21 -0700 Richard-3.local (2745)] INFO : Reporting performance data every 60 seconds.
+[05/12/10 01:21:40 -0700 Richard-3.local (3073)] INFO : Web container: mongrel
+[05/12/10 01:21:40 -0700 Richard-3.local (3073)] INFO : Transaction tracing threshold is 2.0 seconds.
+[05/12/10 01:21:40 -0700 Richard-3.local (3073)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 3073
+[05/12/10 01:21:40 -0700 Richard-3.local (3073)] INFO : Agent Log found in /Users/daifuye/Sites/Engine1/realestateroot/log/newrelic_agent.log
+[05/12/10 01:21:45 -0700 Richard-3.local (3073)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[05/12/10 01:21:46 -0700 Richard-3.local (3073)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[05/12/10 01:21:46 -0700 Richard-3.local (3073)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[05/12/10 01:21:46 -0700 Richard-3.local (3073)] INFO : Reporting performance data every 60 seconds.
+[09/22/10 00:19:50 -0700 s215-201.resnet.ucla.edu (844)] INFO : Web container: mongrel
+[09/22/10 00:19:50 -0700 s215-201.resnet.ucla.edu (844)] INFO : Transaction tracing threshold is 2.0 seconds.
+[09/22/10 00:19:50 -0700 s215-201.resnet.ucla.edu (844)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 844
+[09/22/10 00:19:50 -0700 s215-201.resnet.ucla.edu (844)] INFO : Agent Log found in /Users/daifuye/Sites/realestateroot/log/newrelic_agent.log
+[09/22/10 00:19:55 -0700 s215-201.resnet.ucla.edu (844)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[09/22/10 00:19:56 -0700 s215-201.resnet.ucla.edu (844)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[09/22/10 00:19:56 -0700 s215-201.resnet.ucla.edu (844)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[09/22/10 00:19:56 -0700 s215-201.resnet.ucla.edu (844)] INFO : Reporting performance data every 60 seconds.
+[09/22/10 00:38:55 -0700 s215-201.resnet.ucla.edu (314)] INFO : Web container: mongrel
+[09/22/10 00:38:55 -0700 s215-201.resnet.ucla.edu (314)] INFO : Transaction tracing threshold is 2.0 seconds.
+[09/22/10 00:38:55 -0700 s215-201.resnet.ucla.edu (314)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 314
+[09/22/10 00:38:55 -0700 s215-201.resnet.ucla.edu (314)] INFO : Agent Log found in /Users/daifuye/Sites/realestateroot/log/newrelic_agent.log
+[09/22/10 00:39:00 -0700 s215-201.resnet.ucla.edu (314)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[09/22/10 00:39:00 -0700 s215-201.resnet.ucla.edu (314)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[09/22/10 00:39:00 -0700 s215-201.resnet.ucla.edu (314)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[09/22/10 00:39:01 -0700 s215-201.resnet.ucla.edu (314)] INFO : Reporting performance data every 60 seconds.
+[09/22/10 13:21:39 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Web container: mongrel
+[09/22/10 13:21:39 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Transaction tracing threshold is 2.0 seconds.
+[09/22/10 13:21:39 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 505
+[09/22/10 13:21:39 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Agent Log found in /Users/daifuye/Sites/realestateroot/log/newrelic_agent.log
+[09/22/10 13:21:44 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Resolved collector.newrelic.com to 65.74.177.213
+[09/22/10 13:21:44 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Resolved collector0.newrelic.com to 65.74.177.213
+[09/22/10 13:21:44 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Connected to NewRelic Service at collector0.newrelic.com:80
+[09/22/10 13:21:44 -0700 wifi-169-232-215-51.host.ucla.edu (505)] INFO : Reporting performance data every 60 seconds.
